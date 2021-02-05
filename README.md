@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**taiiiga/taiiiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## NICKNAME - taiiiga
+i wanna be a java backend developer.
+## I KNOW
+- HTML5
+- CSS3
+- XML
+## I WANNA KNOW
+- Arch Linux
+- Bash
+- Git
+- Core Java
+- OOP
+- JDBC
+- Servers / Servlets / JSP
+- JUnit
+- PostgreSQL / MySQL
+- Maven / Gradle
+- Spring / Spring Boot / Spring MVC
+- Hibernate
+- JavaScript
+- Python scripts
+- HTTP / HTTPS
+- REST / SOAP
+- JSON / csv
+- Agile / Scrum / Kanban
+- Basic Authentication / OAuth / JWT
+- YAGNI, SOLID, KISS, DRY
