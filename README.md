@@ -1,5 +1,3 @@
-## NICKNAME - taiiiga
-i wanna be a java backend developer.
 ## I KNOW
 - HTML5
 - CSS3
