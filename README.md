@@ -2,6 +2,7 @@
 - HTML5
 - CSS3
 - XML
+- Maven / Gradle
 ## I WANNA KNOW
 - Arch Linux
 - Bash
@@ -12,7 +13,6 @@
 - Servers / Servlets / JSP
 - JUnit
 - PostgreSQL / MySQL
-- Maven / Gradle
 - Spring / Spring Boot / Spring MVC
 - Hibernate
 - JavaScript
