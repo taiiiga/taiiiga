@@ -4,7 +4,7 @@
 - XML
 - Maven / Gradle
 ## I WANNA KNOW
-- Arch Linux
+- Linux
 - Bash
 - Git
 - Core Java
