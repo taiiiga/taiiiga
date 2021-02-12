@@ -7,7 +7,7 @@
 - Linux
 - Bash
 - Git
-- Core Java
+- Java Core
 - OOP
 - JDBC
 - Servers / Servlets / JSP
