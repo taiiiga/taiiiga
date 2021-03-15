@@ -3,16 +3,16 @@
 - CSS3
 - XML
 - Maven / Gradle
+- Java Core
+- PostgreSQL / MySQL
 ## I WANNA KNOW
 - Linux
 - Bash
 - Git
-- Java Core
 - OOP
 - JDBC
 - Servers / Servlets / JSP
 - JUnit
-- PostgreSQL / MySQL
 - Spring / Spring Boot / Spring MVC
 - Hibernate
 - JavaScript
