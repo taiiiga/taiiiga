@@ -5,10 +5,10 @@
 - Maven
 - Java Core
 - PostgreSQL
+- Git
 ## I WANNA KNOW
 - Linux
 - Bash
-- Git
 - OOP
 - JDBC
 - Servers / Servlets / JSP
