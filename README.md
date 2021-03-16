@@ -6,7 +6,7 @@
 - Java Core
 - PostgreSQL
 - Git
-## I WANNA KNOW
+## I WANT TO KNOW
 - Linux
 - Bash
 - OOP
