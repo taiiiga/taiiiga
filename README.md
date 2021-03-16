@@ -2,9 +2,9 @@
 - HTML5
 - CSS3
 - XML
-- Maven / Gradle
+- Maven
 - Java Core
-- PostgreSQL / MySQL
+- PostgreSQL
 ## I WANNA KNOW
 - Linux
 - Bash
