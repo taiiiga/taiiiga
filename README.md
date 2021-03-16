@@ -13,7 +13,7 @@
 - JDBC
 - Servers / Servlets / JSP
 - JUnit
-- Spring / Spring Boot / Spring MVC
+- Spring Framework / Spring Boot / Spring Web
 - Hibernate
 - JavaScript
 - Python scripts
