@@ -6,6 +6,7 @@
 - Java Core
 - PostgreSQL
 - Git
+- React
 ## I WANT TO KNOW
 - Linux
 - Bash
