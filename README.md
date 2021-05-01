@@ -1,8 +1,8 @@
 # Iskander Khisamov
 I love to create/play games.
-## My knowledge
-Java (Spring Framework)
+## Skills
+Java (Spring Framework)  
 Python (Django)
 React
-## My Projects
+## Projects
 Traxel - Spring Framework / React
