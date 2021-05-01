@@ -2,7 +2,7 @@
 I love to create/play games.
 ## Skills
 Java (Spring Framework)  
-Python (Django)
+Python (Django)  
 React
 ## Projects
 Traxel - Spring Framework / React
