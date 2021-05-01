@@ -5,4 +5,4 @@ Java (Spring Framework)
 Python (Django)  
 React
 ## Projects
-Traxel - Spring Framework / React
+Traxel - Music marketplace | Spring Framework, Hibernate, React
