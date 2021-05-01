@@ -1,26 +1,8 @@
-## I KNOW
-- HTML5
-- CSS3
-- XML
-- Maven
-- Java Core
-- PostgreSQL
-- Git
-- React
-## I WANT TO KNOW
-- Linux
-- Bash
-- OOP
-- JDBC
-- Servers / Servlets / JSP
-- JUnit
-- Spring Framework / Spring Boot / Spring Web
-- Hibernate
-- JavaScript
-- Python scripts
-- HTTP / HTTPS
-- REST / SOAP
-- JSON / csv
-- Agile / Scrum / Kanban
-- Basic Authentication / OAuth / JWT
-- YAGNI, SOLID, KISS, DRY
+# Iskander Khisamov
+I love to create/play games.
+## My knowledge
+Java (Spring Framework)
+Python (Django)
+React
+## My Projects
+Traxel - Spring Framework / React
