@@ -1,5 +1,5 @@
 # Iskander Khisamov
-I love to create/play games.
+I love to be.
 ## Skills
 Java (Spring Framework)  
 Python (Django)  
