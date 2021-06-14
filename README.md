@@ -1,5 +1,5 @@
 # Iskander Khisamov
-I love to be.
+backend developer
 ## Skills
 Java (Spring Framework)  
 Python (Django)  
