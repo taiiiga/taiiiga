@@ -8,6 +8,6 @@ CSS (Tailwind CSS)
 HTML  
 Bash  
 ## Projects
-_Traxel - Music marketplace | Spring Framework, Hibernate, React, Tailwind CSS_
+~~Traxel - Music marketplace | Spring Framework, Hibernate, React, Tailwind CSS~~
 ## Contacts  
 iskanderkhisamov@gmail.com
