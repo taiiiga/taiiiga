@@ -3,9 +3,9 @@ Backend Developer
 ## Skills
 Java (Spring Framework)  
 Python  
-JavaScript  
-React  
-Tailwind CSS  
+JavaScript (React)
+CSS (Tailwind CSS)  
+HTML  
 Bash  
 ## Projects
 Traxel - Music marketplace | Spring Framework, Hibernate, React, Tailwind CSS
