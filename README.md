@@ -2,7 +2,8 @@
 Backend Developer
 ## Skills
 Java (Spring Framework)  
-Python (Django)  
+Python  
+JavaScript  
 React  
 Tailwind CSS  
 Bash  
