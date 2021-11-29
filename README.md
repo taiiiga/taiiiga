@@ -2,7 +2,7 @@
 Backend Developer
 ## Skills
 Java (Spring Framework)  
-.NET (ASP.NET Core, ASP.NET Core Identity, Entity Framework Core)
+.NET (ASP.NET Core, ASP.NET Core Identity, Entity Framework Core)  
 JavaScript (React)  
 CSS (Boostrap, TailwindCSS)
 ## Projects
