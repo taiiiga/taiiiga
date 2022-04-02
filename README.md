@@ -1,9 +1,9 @@
 # Iskander Khisamov
 Junior Backend Developer
 ## Skills
-**.NET**
-**JS**
-**SQL**
+**.NET**  
+**JS**  
+**SQL**  
 ## Projects
 https://github.com/Rusl01/Skorpion (.NET 6, ASP.NET Core, ASP.NET Core Identity, Entity Framework Core)
 ## Contacts  
