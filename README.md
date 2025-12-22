@@ -1,5 +1,5 @@
 # Iskander Khisamov
-Junior Backend Developer
+Backend Developer
 ## Skills
 **.NET**  
 **JS**  
